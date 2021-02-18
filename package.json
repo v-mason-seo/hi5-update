@@ -1,0 +1,28 @@
+{
+  "name": "footballdatabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://yunchiri@bitbucket.org/ddastudio/footballdatabot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/ddastudio/footballdatabot#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "async-mqtt": "^1.0.1",
+    "dateformat": "^3.0.2",
+    "express": "^4.16.3",
+    "helmet": "^3.12.0",
+    "moment": "^2.19.2",
+    "mqtt": "^2.16.0",
+    "mysql2": "^1.5.1",
+    "node-schedule": "^1.2.5",
+    "request": "^2.83.0"
+  }
+}
